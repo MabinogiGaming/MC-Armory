@@ -1,0 +1,16 @@
+[
+{
+  "modid": "armory",
+  "name": "Armory",
+  "description": "A mod that creates customisable weapons, tools and armors.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mabinogi"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
